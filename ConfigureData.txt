@@ -1,0 +1,3 @@
+C:/Users/Delta Store/Desktop/XMLResponseData.xml
+Name
+SCORECARD_MODEL_REF
